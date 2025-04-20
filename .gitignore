@@ -1,0 +1,16 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore environment or virtual env
+env/
+venv/
+
+# Ignore CSV outputs (optional)
+*.csv
+
+# Ignore Mac system files
+.DS_Store
